@@ -15,11 +15,12 @@ Utilizo um conjunto de tecnologias para extrair, tratar, analisar e visualizar d
 
 | Business Intelligence | Linguagens & Bancos de Dados | Processos & Metodologias |
 | :-------------------- | :--------------------------- | :----------------------- |
-| 🚀 **Power BI (Avançado)** | 🐍 **Python** (Pandas, NumPy) | Mineração de Dados (ETL) |
-| 📊 Power Query (M)    | 📈 **Linguagem R** | Análise Estatística      |
-| 🧠 DAX (Cálculos)     | 💾 **SQL** (Queries complexas) | Modelagem de Dados       |
-| ⚙️ Dataflows & Datasets | Microsoft SQL Server         | Metodologias Ágeis (Scrum)|
-
+| 🚀 Power BI (Avançado) | 🐍 Python (Pandas, streamlit) | Mineração de Dados (ETL/ELT) |
+| ☁️ Power BI Service   | 📈 Linguagem R (dplyr, targets)              | Storytelling com Dados   |
+| 📊 Power Query (M)    | 💾 SQL (T-SQL, PostgreSQL)   | Análise Estatística & Testes A/B |
+| 🧠 DAX (Cálculos)     | ☁️ Azure (Data Factory)      | Modelagem Dimensional (Star Schema)|
+| ⚙️ Dataflows & Datasets| 📄 Excel (Power Pivot)       | Data Warehousing (DW)    |
+| 🚪 Power BI Gateway   | 🗄️ Oracle SQL                 | Metodologias Ágeis (Scrum) |
 ---
 
 ### 💼 O que eu faço
