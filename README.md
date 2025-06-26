@@ -1,4 +1,4 @@
-# Olá, eu sou o Gilnei Alves 👋
+# Olá, eu sou o Gilnei Alves de Freitas👋
 
 ### Especialista em Análise de Dados & Business Intelligence
 
