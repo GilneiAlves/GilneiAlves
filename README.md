@@ -23,15 +23,15 @@ Utilizo um conjunto de tecnologias para extrair, tratar, analisar e visualizar d
 | 🚪 Power BI Gateway   | 🗄️ Oracle SQL                 | Metodologias Ágeis (Scrum) |
 ---
 
-### 💼 O que eu faço
+### O que eu faço
 
 Atualmente como **Analista de Dados Sênior na G4F**, meu foco é gerar valor através de soluções de dados de ponta a ponta:
 
-* ⛏️ **Mineração e Tratamento:** Extração e limpeza de dados de múltiplas fontes para garantir máxima qualidade e relevância.
-* 📈 **Análise e Interpretação:** Identificação de padrões, tendências e oportunidades de melhoria com base em modelagem e análise estatística.
-* 🎨 **Visualização de Dados:** Desenvolvimento de dashboards e relatórios interativos e de alto impacto no Power BI para apoiar a tomada de decisão gerencial.
-* 🤖 **Automação de Processos:** Implementação de rotinas automatizadas com Python/R e integração via Dataflows para otimizar a eficiência.
-* 🤝 **Colaboração Estratégica:** Levantamento de requisitos junto a stakeholders e apresentação de insights para impulsionar o crescimento do negócio.
+*  **Mineração e Tratamento:** Extração e limpeza de dados de múltiplas fontes para garantir máxima qualidade e relevância.
+*  **Análise e Interpretação:** Identificação de padrões, tendências e oportunidades de melhoria com base em modelagem e análise estatística.
+*  **Visualização de Dados:** Desenvolvimento de dashboards e relatórios interativos e de alto impacto no Power BI para apoiar a tomada de decisão gerencial.
+*  **Automação de Processos:** Implementação de rotinas automatizadas com Python/R e integração via Dataflows para otimizar a eficiência.
+*  **Colaboração Estratégica:** Levantamento de requisitos junto a stakeholders e apresentação de insights para impulsionar o crescimento do negócio.
 
 > "Meu objetivo é construir pontes entre os dados e as decisões, fornecendo a clareza necessária para que as organizações atinjam seu pleno potencial."
 
