@@ -15,7 +15,7 @@ Utilizo um conjunto de tecnologias para extrair, tratar, analisar e visualizar d
 
 | Business Intelligence | Linguagens & Bancos de Dados | Processos & Metodologias |
 | :-------------------- | :--------------------------- | :----------------------- |
-| 🚀 Power BI (Avançado) | 🐍 Python (Pandas, streamlit) | Mineração de Dados (ETL/ELT) |
+| 🚀 Power BI (Avançado) | 🐍 Python (Pandas, streamlit) | Mineração de Dados (ETL/ELT) Power Query, Apache Hop |
 | ☁️ Power BI Service   | 📈 Linguagem R (dplyr, targets)              | Storytelling com Dados   |
 | 📊 Power Query (M)    | 💾 SQL (T-SQL, PostgreSQL)   | Análise Estatística & Testes A/B |
 | 🧠 DAX (Cálculos)     | ☁️ Azure (Data Factory)      | Modelagem Dimensional (Star Schema)|
